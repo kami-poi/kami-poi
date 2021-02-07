@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ⭐I'm mainly learning at:
-<a href="https://dotnet.microsoft.com/"><img src="https://dotnet.microsoft.com/static/images/redesign/downloads-dotnet.svg?v=uLixlb9S-A5Qlb2r4ONUKPIBIrr2ABPgOfgTSqfDRwY" /></a>
+<a href="https://dotnet.microsoft.com/"><img src="https://dotnet.microsoft.com/static/images/redesign/downloads-dotnet.svg?v=uLixlb9S-A5Qlb2r4ONUKPIBIrr2ABPgOfgTSqfDRwY" style="height=25px;" /></a>
  with 
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-sharp.svg" /></a> 9.0
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-sharp.svg" style="height=32px;" /></a> 9.0
